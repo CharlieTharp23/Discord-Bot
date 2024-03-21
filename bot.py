@@ -1,7 +1,6 @@
 from discord.ext import commands
 import discord
-import numpy as np
-import Bot_info
+import Bot_info ## holds API key and channel ID 
 import json
 from datetime import datetime, timedelta
 
